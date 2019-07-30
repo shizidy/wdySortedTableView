@@ -63,7 +63,6 @@
 
 #pragma mark ========== 设置属性 ==========
 - (void)setAttributes {
-//    self.separatorStyle = UITableViewCellSeparatorStyleNone;
     self.backgroundColor = [UIColor whiteColor];
     self.showsVerticalScrollIndicator = NO;
     self.showsHorizontalScrollIndicator = NO;
